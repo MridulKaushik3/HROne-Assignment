@@ -1,6 +1,7 @@
 # Employee Attendance & Analytics API
-
+Hi I am Mridul. This is not me best work but I can do best in your proper guidance and time. With few try and my experties in python programming, prompt writing and backend developement I tried and here is the submission. It is not complete bcoz I am not genius of fast API but if you give me a chance I can join immediately and I promise my honesty and 100 percent effort for the work.
 FastAPI + MongoDB (PyMongo). All application code is in `app/main.py`.
+
 
 ## Run
 ```bash
